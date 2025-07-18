@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "content": "Abin ",
+    "imagePath": null,
+    "createdAt": "2025-07-18T10:12:27.308Z"
+  },
+  {
+    "id": 2,
+    "content": "Abin J S",
+    "imagePath": "/uploads/9ec905cef6b7f80ce6a48565f593b602",
+    "createdAt": "2025-07-18T10:13:30.868Z"
+  },
+  {
+    "content": "jbh",
+    "imagePath": "/uploads/06e3c6e84f8b119e21c72597d842102e",
+    "createdAt": "2025-07-18T11:00:48.966Z"
+  },
+  {
+    "content": "yash",
+    "imagePath": "/uploads/56a4487c31d5bac92939f65b4ff408f7",
+    "createdAt": "2025-07-18T11:01:45.266Z"
+  },
+  {
+    "content": "asjgd",
+    "imagePath": "/uploads/3f4777a0fb3ade04a5e8bb99c78ad1d5",
+    "createdAt": "2025-07-18T11:05:58.490Z"
+  }
+]
